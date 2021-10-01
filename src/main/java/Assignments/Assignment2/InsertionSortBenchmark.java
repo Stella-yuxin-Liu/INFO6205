@@ -159,6 +159,7 @@ public class InsertionSortBenchmark {
         return timer.repeat(times, () -> {
             iSort.sort(nums, true);
             return null;
+            
         });
     }
 }
