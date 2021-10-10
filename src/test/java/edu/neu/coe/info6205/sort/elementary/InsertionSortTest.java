@@ -142,8 +142,8 @@ public class InsertionSortTest {
         InsertionSortTest ist = new InsertionSortTest();
         ist.sort0();
         ist.sort1();
-        //ist.sort2();
-        //ist.sort3();
+        ist.sort2();
+        ist.sort3();
         ist.testMutatingInsertionSort();
         ist.testStaticInsertionSort();
     }

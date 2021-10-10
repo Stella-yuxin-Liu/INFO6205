@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Assignments.Assignment3;
+package edu.neu.coe.info6205.union_find;
 
 
 import java.util.Random;

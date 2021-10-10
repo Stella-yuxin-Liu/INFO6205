@@ -181,20 +181,5 @@ public class UF_HWQUPC_Test {
         assertFalse(h.isConnected(0, 1));
     }
     
-    public static void main(String[] args) {
-        UF_HWQUPC_Test uht = new UF_HWQUPC_Test();
-        uht.testConnect01();
-        uht.testConnect02();
-        uht.testConnected01();
-        uht.testFind0();
-        uht.testFind1();
-        uht.testFind2();
-        uht.testFind3();
-        uht.testFind4();
-        //uht.testFind5();
-        uht.testIsConnected01();
-        //uht.testIsConnected02();
-        uht.testIsConnected03();
-        uht.testToString();
-    }
+    
 }
